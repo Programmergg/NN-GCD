@@ -1,0 +1,8 @@
+loguru
+numpy
+pandas
+scikit_learn
+scipy
+tqdm
+torch
+torchvision
