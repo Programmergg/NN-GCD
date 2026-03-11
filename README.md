@@ -46,3 +46,23 @@ In this work, we revisit GCD from a **non-negative matrix factorization** perspe
 - Strong empirical performance on semantic shift benchmarks
 
 ---
+
+---
+
+## ⭐ Star History
+
+<p align="center">
+  <a href="https://star-history.com/Programmergg/NTK-CL&Date">
+    <img src="https://api.star-history.com/svg?repos=Programmergg/NTK-CL&type=Date" width="650" alt="Star History Chart">
+  </a>
+</p>
+
+---
+
+## 📬 Contact
+
+For questions and discussions:
+- Email: **jrl0219@tju.edu.cn**
+- Issues: please open a GitHub Issue in this repo.
+
+---
